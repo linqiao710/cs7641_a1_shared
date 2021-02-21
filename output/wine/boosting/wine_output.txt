@@ -1,0 +1,25 @@
+Boosting before tuning
+Train Results
+Accuracy: 0.9757623143080532
+Error Rate: 0.024237685691946842
+Confusion Matrix: [587  13  18 661]
+Test Results
+Accuracy: 0.75
+Error Rate: 0.25
+Confusion Matrix: [108  36  44 132]
+Time
+Training Time: 4.379968166351318
+Prediction Time: 0.9043669700622559
+=========================
+Boosting after tuning
+Train Results
+Accuracy: 0.8326817826426895
+Error Rate: 0.16731821735731045
+Confusion Matrix: [495 105 109 570]
+Test Results
+Accuracy: 0.7375
+Error Rate: 0.2625
+Confusion Matrix: [111  33  46 130]
+Time
+Training Time: 0.3150801658630371
+Prediction Time: 0.06770181655883789

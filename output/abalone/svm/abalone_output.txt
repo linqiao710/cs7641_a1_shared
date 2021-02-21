@@ -1,0 +1,64 @@
+SVM-linear before tuning
+Train Results
+Accuracy: 0.5031427716252619
+Error Rate: 0.4968572283747381
+Confusion Matrix: [1681    1 1659    0]
+Correlation: -0.01718450251045162
+Test Results
+Accuracy: 0.49521531100478466
+Error Rate: 0.5047846889952153
+Confusion Matrix: [414   0 422   0]
+Correlation: nan
+Time
+Training Time: 0.0022230148315429688
+Prediction Time: 0.0027608871459960938
+==================
+SVM-linear after tuning
+Train Results
+Accuracy: 0.7904818916492068
+Error Rate: 0.2095181083507932
+Confusion Matrix: [1365  317  383 1276]
+Correlation: 0.5812840603095492
+Test Results
+Accuracy: 0.7990430622009569
+Error Rate: 0.2009569377990431
+Confusion Matrix: [334  80  88 334]
+Correlation: 0.5982324793369521
+Recall: [0.76913803]
+Precision: [0.80100439]
+Time
+Training Time: 0.14134716987609863
+Prediction Time: 0.05533099174499512
+===============
+===============
+SVM-rbf before tuning
+Train Results
+Accuracy: 0.35228973361269084
+Error Rate: 0.6477102663873091
+Confusion Matrix: [ 838  844 1320  339]
+Correlation: -0.3109730582027603
+Test Results
+Accuracy: 0.3672248803827751
+Error Rate: 0.6327751196172249
+Confusion Matrix: [215 199 330  92]
+Correlation: -0.27568739900406025
+Time
+Training Time: 0.001995086669921875
+Prediction Time: 0.0031020641326904297
+================
+SVM-rbf after tuning
+Train Results
+Accuracy: 0.7949715653995809
+Error Rate: 0.20502843460041908
+Confusion Matrix: [1274  408  277 1382]
+Correlation: 0.5919661680692707
+Test Results
+Accuracy: 0.8074162679425837
+Error Rate: 0.1925837320574163
+Confusion Matrix: [320  94  67 355]
+Correlation: 0.6158469115520367
+Time
+Training Time: 0.1428358554840088
+Prediction Time: 0.11727094650268555
+Recall: [0.84123223]
+Precision: [0.79064588]

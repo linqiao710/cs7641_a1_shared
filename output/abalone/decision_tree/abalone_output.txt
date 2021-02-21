@@ -1,0 +1,31 @@
+Decision Tree before tuning
+Train Results
+Accuracy: 1.0
+Error Rate: 0.0
+Confusion Matrix: [1682    0    0 1659]
+Correlation: 0.9999999999999998
+Test Results
+Accuracy: 0.7404306220095693
+Error Rate: 0.25956937799043067
+Confusion Matrix: [316  98 119 303]
+Correlation: 0.4816709812580984
+Time
+Training Time: 0.015237092971801758
+Prediction Time: 0.0014719963073730469
+============
+Decision Tree after tuning
+Train Results
+Accuracy: 0.7916791379826399
+Error Rate: 0.2083208620173601
+Confusion Matrix: [1418  264  432 1227]
+Correlation: 0.5860253396302698
+Test Results
+Accuracy: 0.7870813397129187
+Error Rate: 0.21291866028708128
+Confusion Matrix: [357  57 121 301]
+Correlation: 0.5815852814316095
+Recall: [0.71327014]
+Precision: [0.84078212]
+Time
+Training Time: 0.005496025085449219
+Prediction Time: 0.0011258125305175781

@@ -1,0 +1,25 @@
+KNN before tuning
+Train Results
+Accuracy: 1.0
+Error Rate: 0.0
+Confusion Matrix: [600   0   0 679]
+Test Results
+Accuracy: 0.775
+Error Rate: 0.22499999999999998
+Confusion Matrix: [109  35  37 139]
+Time
+Training Time: 0.0016400814056396484
+Prediction Time: 0.03288698196411133
+=======================
+KNN after tuning
+Train Results
+Accuracy: 0.7490226739640344
+Error Rate: 0.25097732603596556
+Confusion Matrix: [436 164 157 522]
+Test Results
+Accuracy: 0.71875
+Error Rate: 0.28125
+Confusion Matrix: [105  39  51 125]
+Time
+Training Time: 0.0013208389282226562
+Prediction Time: 0.08084988594055176

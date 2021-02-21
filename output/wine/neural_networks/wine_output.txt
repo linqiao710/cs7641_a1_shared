@@ -1,0 +1,25 @@
+Neural Networks before tuning
+Train Results
+Accuracy: 0.7341673182173573
+Error Rate: 0.26583268178264274
+Confusion Matrix: [466 134 206 473]
+Test Results
+Accuracy: 0.715625
+Error Rate: 0.28437500000000004
+Confusion Matrix: [114  30  61 115]
+Time
+Training Time: 0.44657301902770996
+Prediction Time: 0.001645803451538086
+==================
+Neural Networks after tuning
+Train Results
+Accuracy: 0.7537138389366693
+Error Rate: 0.24628616106333068
+Confusion Matrix: [468 132 183 496]
+Test Results
+Accuracy: 0.740625
+Error Rate: 0.259375
+Confusion Matrix: [114  30  53 123]
+Time
+Training Time: 0.49278712272644043
+Prediction Time: 0.0032122135162353516

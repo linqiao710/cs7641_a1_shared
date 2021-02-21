@@ -1,1 +1,1 @@
-This folder is used fot plots generated.
+This folder is used for plots generated.
